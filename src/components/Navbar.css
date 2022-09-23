@@ -1,0 +1,31 @@
+.bigContainer{
+
+      background-color: rgb(50, 40, 40);
+     padding: 20px;
+      color: white;
+}
+
+
+.container{
+ 
+     display: flex;
+     justify-content: space-between;
+    
+     align-items: center;
+     margin-left: 50px;
+     margin-right: 50px;
+     
+}
+.logo{
+    font-size: 25px;
+    font-weight: 600;
+}
+
+.smallContainer{
+
+     display: flex;
+     align-items: center;
+     gap: 10px;
+     font-size: 18px;
+     font-weight: 600;
+}
